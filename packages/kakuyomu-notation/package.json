@@ -3,7 +3,7 @@
   "version": "0.0.4",
   "description": "transform kakuyomu notation to html",
   "main": "index.js",
-  "repository": "https://github.com/excoinc/exco-js-libs/packages/kakuyomu-notation",
+  "repository": "https://github.com/excoinc/exco-js-libs",
   "author": "Exco Inc.",
   "license": "MIT",
   "private": false,
