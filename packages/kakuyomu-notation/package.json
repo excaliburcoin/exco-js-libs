@@ -1,0 +1,11 @@
+{
+  "name": "@exco/kakuyomu-notation",
+  "version": "0.0.3",
+  "description": "transform kakuyomu notation to html",
+  "main": "index.js",
+  "repository": "https://github.com/excoinc/exco-js-libs/packages/kakuyomu-notation",
+  "author": "Exco Inc.",
+  "license": "MIT",
+  "private": false,
+  "gitHead": "54d550cccc844c2311f20c802feb0cb64595b066"
+}
